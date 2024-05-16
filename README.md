@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Piyush Ranjan Satapathy</h1>
 <h3 align="center">Hello! I'm Piyush Ranjan Satapathy, a passionate developer, UI/UX Designer and problem solver, dedicated to creating impactful solutions through code.</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1A5fsEl6xnoWEwFGuKQB8guQb7CgXmYW8/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfa-satapathy&label=Profile%20views&color=0e75b6&style=flat" alt="alfa-satapathy" /> </p>
 
